@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://maldonado-research.github.io/sitemap.xml
+Sitemap: https://maldonado-research.github.io/sitemap.txt
