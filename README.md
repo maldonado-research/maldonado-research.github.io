@@ -26,7 +26,7 @@ Search Console reported “Couldn't fetch” for the XML sitemap even though the
 
 ## Content and version policy
 
-The six project summaries are grounded in public repository README and CITATION.cff material captured on 30 September 2026. DMDE uses the refreshed public README fetched later that day, after its full v0.9.20 provider materials were published. The TMD current report link is separately supplied: https://zenodo.org/records/23068056. Its older software archive is https://zenodo.org/records/22398093. The UTOE DOI 10.5281/zenodo.22319172 identifies only its older baseline. HDBLAST record 22922928 remains labeled as a record listed by its README, with the README’s version/file-list qualification preserved.
+The six project summaries are grounded in public repository README and CITATION.cff material captured on 30 September 2026. DMDE uses the refreshed public README fetched later that day, after its full v0.9.20 provider materials were published. TMD now summarizes the public methods package 0.5.0 and links https://zenodo.org/records/23075312. The expanded report remains 0.1.0 at https://zenodo.org/records/23068056; the older software v2.6.5 archive is https://zenodo.org/records/22398093. The UTOE DOI 10.5281/zenodo.22319172 identifies only its older baseline. HDBLAST record 22922928 remains labeled as a record listed by its README, with the README’s version/file-list qualification preserved.
 
 Structured data describes the site, author, collection and research materials without peer-review, experimental-validation or institutional claims. Reproducibility and byte-integrity evidence are qualified separately from scientific validation.
 
