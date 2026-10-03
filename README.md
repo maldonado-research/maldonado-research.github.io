@@ -32,6 +32,8 @@ The DMDE overview was updated on 2 October 2026 from the reviewed public source-
 
 The Faster than Light overview was added on 2 October 2026 from the merged public `maldonado-research/faster-than-light` methods at commit `7ad6a32a2f413b8f13c329ae685478b19ea42dd2`. It links the finite-delay and unequal-speed calculations, the conditional preferred-frame scalar exercise and the live archive-verification note. The GitHub methods additions are separate from the cited v1.2.1 Zenodo package; no new Zenodo release or physical FTL result is claimed.
 
+The TOE operator overview summarizes the October 1 checkpoint at immutable source commit `ca88aed6e69d3b6dbda02ebc78831dd925613fdb`, included in the public main branch through merged [research PR #1](https://github.com/maldonado-research/Unified-Theory-of-Everything/pull/1). Its source links remain pinned to that commit for reproducibility. Publication status was checked on 2 October 2026. The older Zenodo DOI identifies only the N00AK-r1 baseline; it does not archive the later GitHub edition. Private follow-up calculations are outside this overview. After directory changes are merged, verify the Pages deployment separately from the research-source merge.
+
 Structured data describes the site, author, collection and research materials without peer-review, experimental-validation or institutional claims. Reproducibility and byte-integrity evidence are qualified separately from scientific validation.
 
 ## Maintenance
