@@ -57,3 +57,5 @@ Structured data describes the site, author, collection and research materials wi
 ## Maintenance
 
 When a project changes, update its overview, version, limitations, links and structured data together. Change the affected sitemap date only after changing the public page. Confirm that the static navigation and published canonical URLs still match. Keep source repository files and archives authoritative for detailed claims and reuse licenses.
+
+The TMD overview now includes the reviewed cancer-domain measurement candidate, standard growth/recovery expected-mixture alternative and reporting-normalization audit. Cancer routes, a model system and protocol remain unchosen; no cancer-prevention result is claimed. Current source is immutable TMD commit 6cdf0ca6a4258fd6ed1f9e3df898363c3b799311. Earlier project/site history and other research pages are preserved. The prepared Zenodo0.6.0package remains unpublished and excludes these later GitHub rounds.
