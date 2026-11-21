@@ -34,7 +34,7 @@ The Faster than Light overview was added on 2 October 2026 from the merged publi
 
 The TOE operator overview summarizes the October 1 checkpoint at immutable source commit `ca88aed6e69d3b6dbda02ebc78831dd925613fdb`, included in the public main branch through merged [research PR #1](https://github.com/maldonado-research/Unified-Theory-of-Everything/pull/1). Its source links remain pinned to that commit for reproducibility. Publication status was checked on 2 October 2026. The older Zenodo DOI identifies only the N00AK-r1 baseline; it does not archive the later GitHub edition. Private follow-up calculations are outside this overview. After directory changes are merged, verify the Pages deployment separately from the research-source merge.
 
-The current TMD report, *Mutation by Natural Dominance: retrospective route rankings and observation audits* (version 0.8.0, 18 November 2026), archives the finite-roster audit and the retrospective route rankings. The earlier 0.7.0 release archives the integrated observation and control methods. [Report 0.8.0](https://doi.org/10.5281/zenodo.24356344) · [Methods 0.7.0](https://doi.org/10.5281/zenodo.23970140)
+The current TMD report (version 0.12.0, 20 November 2026) tests whether founder fitness improves forecasts of the final abundance of competing yeast lineages. A separate comparison examines the growth rates and final shares of competing green-algae species. [Report 0.12.0](https://doi.org/10.5281/zenodo.24409045) · [Study, data and code](https://github.com/maldonado-research/TMD/tree/6fa3871b25eb4896edfad8cb38f6bb7d306108c4/research/founder_fitness) · [Published series](https://doi.org/10.5281/zenodo.23068055)
 
 **TMD history.** The entries below preserve their dated source and publication observations.
 
